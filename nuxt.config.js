@@ -51,13 +51,12 @@ export default {
       '@nuxtjs/firebase',
       {
         config: {
-          apiKey: "AIzaSyDYfw206v1i4N5Hh2YPudDasAD-JWaheAA",
-          authDomain: "angel-s-scent.firebaseapp.com",
-          projectId: "angel-s-scent",
-          storageBucket: "angel-s-scent.appspot.com",
-          messagingSenderId: "486453564554",
-          appId: "1:486453564554:web:e67607b6f550658cf64973",
-          measurementId: "G-TT2DB0ZSCD"
+          apiKey: "AIzaSyA_wIoMJj59KoO0lxLuU1qROem6MeUMX-0",
+          authDomain: "angelsscent-dev.firebaseapp.com",
+          projectId: "angelsscent-dev",
+          storageBucket: "angelsscent-dev.appspot.com",
+          messagingSenderId: "620830937908",
+          appId: "1:620830937908:web:d85dfb1c46bf05e59b0b61"
         },
         services: {
           firestore: true,
